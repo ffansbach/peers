@@ -1,0 +1,4 @@
+key "55644e62898234d930c172aa41f46245d3205dfc55e44e87cd6dde4aa8d2a4f7";
+remote "gw32.freifunk-schwabach.de" port 10003;
+remote ipv4 "37.120.168.115" port 10003;
+

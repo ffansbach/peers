@@ -1,1 +1,4 @@
 key "e010cf7d12b93e70dbed58fb9c0ef433b8cfae5fac452a7b525ecb3f96cc1879";
+remote "gw99.freifunk-schwabach.de" port 10003;
+remote ipv4 "188.40.51.203" port 10003;
+

@@ -1,1 +1,4 @@
 key "c53adc4641e32bc032e7d796ae95a3c38de74060d63ac5da58304c800a337465";
+remote "gw99.freifunk-treuchtlingen.de" port 10005;
+remote ipv4 "188.40.51.203" port 10005;
+
