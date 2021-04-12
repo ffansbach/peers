@@ -1,0 +1,4 @@
+key "3191a90c3a725e475a0aee766812b7d132bf1d5a2122882c1a7a0e3381344d07";
+remote "gw32.freifunk-treuchtlingen.de" port 10005;
+remote ipv4 "37.120.168.115" port 10005;
+
